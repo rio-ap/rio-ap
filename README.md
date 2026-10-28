@@ -4,14 +4,14 @@
 
 Former Senior SDET at **Traveloka**. Previously Senior Software Engineer, Engineering Productivity at **Tokopedia**. Focused on eliminating flaky tests, accelerating release cycles, and building resilient quality systems.
 
-<p align="center"><img alt="Open to remote SDET / QA automation roles" src="https://img.shields.io/badge/Open_to_remote_SDET_%2F_QA_automation_roles-6E7781?style=flat-square"></p>
-
 <p align="center">
   <a href="https://me.trazire.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-me.trazire.com-0055FF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
   <a href="https://me.trazire.com/docs/Profile.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-FF0000?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rio-anggara"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rio--anggara-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"></a>
   <a href="mailto:rio.ap7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rio.ap7%40gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
 </p>
+
+<p align="center"><img alt="Open to remote SDET / QA automation roles" src="https://img.shields.io/badge/Open_to_remote_SDET_%2F_QA_automation_roles-6E7781?style=flat-square"></p>
 
 ---
 
