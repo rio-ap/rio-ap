@@ -13,7 +13,7 @@ Senior SDET at **Traveloka**. Previously Senior Software Engineer, Engineering P
 
 ### 🛠️ Tech Stack & Expertise
 
-* **Automation & Frameworks:** Playwright · Appium · Cypress · Selenium · REST Assured · PyTest
+* **Automation & Frameworks:** Playwright · Appium · Cypress · Selenium · REST Assured · Karate
 * **Languages:** TypeScript · Java · Python · GDScript
 * **Infra & CI/CD:** GitHub Actions · Jenkins · GitLab CI · Docker · AWS (EC2, CodeBuild, Lambda)
 * **Observability & AI:** Datadog · Agentic AI Workflows · OpenCode
