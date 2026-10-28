@@ -24,9 +24,7 @@ PNG export. Images never leave the browser.
 
 **Contributed to**
 
-<p align="center">
-  <a href="https://github.com/with-pebbly/aseprite-ai-artist"><img width="400" alt="aseprite-ai-artist" src="https://github-readme-stats.vercel.app/api/pin/?username=with-pebbly&repo=aseprite-ai-artist&theme=github_dark&show_owner=true"></a>
-</p>
+<a href="https://github.com/with-pebbly/aseprite-ai-artist"><img width="400" alt="aseprite-ai-artist" src="https://github-readme-stats.vercel.app/api/pin/?username=with-pebbly&repo=aseprite-ai-artist&theme=github_dark&show_owner=true"></a>
 
 ---
 
