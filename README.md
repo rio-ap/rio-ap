@@ -4,7 +4,8 @@ I build the automation, the test frameworks behind it, and the infrastructure th
 Most days that means chasing flaky tests, keeping CI green, and making failures readable.
 
 > **Focus:** Web, Mobile and API test automation · Framework design · CI/CD and test infrastructure<br>
-> **Stack:** Playwright · Appium · TypeScript · Java · Jenkins · GitHub Actions · AWS (CodeBuild, EC2, Lambda) · Datadog · Agentic AI
+> **Stack:** Playwright · Appium · TypeScript · Java · Jenkins · GitHub Actions<br>
+> AWS (CodeBuild, EC2, Lambda) · Datadog · Agentic AI
 
 > [!TIP]
 > **Open to remote SDET / QA automation roles.**
