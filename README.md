@@ -4,11 +4,13 @@
 
 Former Senior SDET at **Traveloka**. Previously Senior Software Engineer, Engineering Productivity at **Tokopedia**. Focused on eliminating flaky tests, accelerating release cycles, and building resilient quality systems.
 
-[![Open to remote SDET roles](https://img.shields.io/badge/Open_to_Work-Remote_SDET_%2F_QA_Automation-2EA44F?style=flat-square)](https://me.trazire.com/docs/Profile.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-me.trazire.com-0055FF?style=flat-square&logo=googlechrome&logoColor=white)](https://me.trazire.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://me.trazire.com/docs/Profile.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rio--anggara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-anggara)
-[![Email](https://img.shields.io/badge/Email-rio.ap7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rio.ap7@gmail.com)
+<p align="center">
+  <a href="https://me.trazire.com/docs/Profile.pdf"><img alt="Open to remote SDET roles" src="https://img.shields.io/badge/Open_to_Work-Remote_SDET_%2F_QA_Automation-2EA44F?style=flat-square"></a>
+  <a href="https://me.trazire.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-me.trazire.com-0055FF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
+  <a href="https://me.trazire.com/docs/Profile.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-FF0000?style=flat-square&amp;logo=adobeacrobatreader&amp;logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rio-anggara"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rio--anggara-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="mailto:rio.ap7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rio.ap7%40gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
+</p>
 
 ---
 
@@ -44,6 +46,8 @@ In-browser 1280×720 image editing tool built with privacy-first client-side pro
 
 When I'm not fixing build pipelines, I make videos for **[Trazire Life](https://life.trazire.com)** on YouTube. I'm also learning to build games in Godot (nothing released yet).
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Trazire_Life-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@trazirelife?sub_confirmation=1)
-[![Instagram](https://img.shields.io/badge/Instagram-@trazire_life-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/trazire_life)
-[![TikTok](https://img.shields.io/badge/TikTok-@trazirelife-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@trazirelife)
+<p align="center">
+  <a href="https://www.youtube.com/@trazirelife?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Trazire_Life-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white"></a>
+  <a href="https://www.instagram.com/trazire_life"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@trazire_life-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white"></a>
+  <a href="https://www.tiktok.com/@trazirelife"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-@trazirelife-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white"></a>
+</p>
