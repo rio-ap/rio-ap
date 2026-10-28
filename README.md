@@ -4,7 +4,7 @@
 
 Former Senior SDET at **Traveloka**. Previously Senior Software Engineer, Engineering Productivity at **Tokopedia**. Focused on eliminating flaky tests, accelerating release cycles, and building resilient quality systems.
 
-<p align="center"><strong>Open to remote SDET / QA automation roles.</strong></p>
+<p align="center"><sub><em>Open to remote SDET / QA automation roles.</em></sub></p>
 
 <p align="center">
   <a href="https://me.trazire.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-me.trazire.com-0055FF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
