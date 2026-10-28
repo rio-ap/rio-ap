@@ -1,37 +1,49 @@
-**Senior SDET.** Ten years in software engineering, mostly at Traveloka and Tokopedia.
+# Hi, I'm Rio 👋
 
-I build the automation, the test frameworks behind it, and the infrastructure that runs it.
-Most days that means chasing flaky tests, keeping CI green, and making failures readable.
+**Senior SDET** with 10+ years of engineering experience, specializing in test framework design, scalable CI/CD pipelines, and Developer Experience (DevEx).
 
-**Focus:** Web, Mobile and API test automation · Framework design · CI/CD and test infrastructure<br>
-**Stack:** Playwright · Appium · TypeScript · Java · Jenkins · GitHub Actions<br>
-AWS (CodeBuild, EC2, Lambda) · Datadog · Agentic AI
+Senior SDET at **Traveloka**. Previously Senior Software Engineer, Engineering Productivity at **Tokopedia**. Focused on eliminating flaky tests, accelerating release cycles, and building resilient quality systems.
 
-**Open to remote SDET / QA automation roles.**<br>
-[CV (PDF)](https://me.trazire.com/docs/Profile.pdf) · [Portfolio](https://me.trazire.com) · [LinkedIn](https://www.linkedin.com/in/rio-anggara) · [rio.ap7@gmail.com](mailto:rio.ap7@gmail.com)
-
-## Selected projects
-
-**[Trazire Mart](https://playground.trazire.com)**<br>
-A demo storefront built to be tested: cart drawer, routed checkout, stable test IDs. The
-[Playwright report](https://playground.trazire.com/test-reports/) and
-[coverage](https://playground.trazire.com/coverage/) are public, and the
-[code is on GitHub](https://github.com/rio-ap/web-playground).
-
-**[YouTube Thumbnail Generator](https://thumbnail.trazire.com/thumbnail-generator)**<br>
-A browser-based 1280×720 thumbnail editor. Layers, draggable crops, background removal,
-PNG export. Images never leave the browser.
-
-**Contributed to**
-
-<a href="https://github.com/with-pebbly/aseprite-ai-artist"><img width="400" alt="aseprite-ai-artist" src="https://github-readme-stats.vercel.app/api/pin/?username=with-pebbly&repo=aseprite-ai-artist&theme=github_dark&show_owner=true"></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-me.trazire.com-0055FF?style=flat-square&logo=googlechrome&logoColor=white)](https://me.trazire.com)
+[![CV](https://img.shields.io/badge/Resume-PDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://me.trazire.com/docs/Profile.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rio--anggara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-anggara)
+[![Email](https://img.shields.io/badge/Email-rio.ap7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rio.ap7@gmail.com)
 
 ---
 
-_Off the clock: videos about games at [Trazire Life](https://life.trazire.com), and the occasional Godot game._
+### 🛠️ Tech Stack & Expertise
 
-<p align="center">
-  <a href="https://www.youtube.com/@trazirelife?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/trazire_life"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@trazirelife"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-</p>
+* **Automation & Frameworks:** Playwright · Appium · Cypress · Selenium · REST Assured · PyTest
+* **Languages:** TypeScript · Java · Python · GDScript
+* **Infra & CI/CD:** GitHub Actions · Jenkins · GitLab CI · Docker · AWS (EC2, CodeBuild, Lambda)
+* **Observability & AI:** Datadog · Agentic AI Workflows · OpenCode
+
+---
+
+### 🚀 Selected Projects
+
+#### [Trazire Mart](https://playground.trazire.com)
+An open-source, production-grade test sandbox designed specifically for end-to-end UI automation testing.
+* Features routed checkout, drawer components, and deterministic `data-testid` properties.
+* Fully automated GitHub Actions pipeline publishing live test metrics.
+* **Links:** [Live App](https://playground.trazire.com) · [Playwright Reports](https://playground.trazire.com/test-reports/) · [Code Coverage](https://playground.trazire.com/coverage/) · [GitHub Repo](https://github.com/rio-ap/web-playground)
+
+#### [YouTube Thumbnail Generator](https://thumbnail.trazire.com/thumbnail-generator)
+In-browser 1280×720 image editing tool built with privacy-first client-side processing.
+* Canvas layer manipulation, custom aspect-ratio cropping, background removal, and PNG export.
+
+---
+
+### 🤝 Open Source Contributions
+
+* **[aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist):** Contributed agentic AI workflow integration, plugin setup refactoring, and security hardening.
+
+---
+
+### 🎮 Beyond Engineering
+
+When I'm not fixing build pipelines, I build 2D games in **Godot** and benchmark handheld tech at **[Trazire Life](https://life.trazire.com)**.
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Trazire_Life-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@trazirelife?sub_confirmation=1)
+[![Instagram](https://img.shields.io/badge/Instagram-@trazire_life-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/trazire_life)
+[![TikTok](https://img.shields.io/badge/TikTok-@trazirelife-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@trazirelife)
