@@ -42,7 +42,7 @@ In-browser 1280×720 image editing tool built with privacy-first client-side pro
 
 ### 🎮 Beyond Engineering
 
-When I'm not fixing build pipelines, I make videos for Trazire Life (https://life.trazire.com) on YouTube. I'm also learning to build games in Godot (nothing released yet).
+When I'm not fixing build pipelines, I make videos for **[Trazire Life](https://life.trazire.com)** on YouTube. I'm also learning to build games in Godot (nothing released yet).
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Trazire_Life-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@trazirelife?sub_confirmation=1)
 [![Instagram](https://img.shields.io/badge/Instagram-@trazire_life-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/trazire_life)
