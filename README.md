@@ -23,7 +23,7 @@ Former Senior SDET at **Traveloka**. Previously Senior Software Engineer, Engine
 ### 🚀 Selected Projects
 
 #### [Trazire Mart](https://playground.trazire.com)
-An open-source, production-grade test sandbox designed specifically for end-to-end UI automation testing.
+An open-source test sandbox designed specifically for end-to-end UI automation testing.
 - Features routed checkout, drawer components, and deterministic `data-testid` properties.
 - Fully automated GitHub Actions pipeline publishing live test metrics.
 - **Links:** [Live App](https://playground.trazire.com) · [Playwright Reports](https://playground.trazire.com/test-reports/) · [Code Coverage](https://playground.trazire.com/coverage/) · [GitHub Repo](https://github.com/rio-ap/web-playground)
