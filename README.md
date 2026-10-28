@@ -3,11 +3,12 @@
 I build the automation, the test frameworks behind it, and the infrastructure that runs it.
 Most days that means chasing flaky tests, keeping CI green, and making failures readable.
 
-**Focus:** Web, Mobile and API test automation · Framework design · CI/CD and test infrastructure<br>
-**Stack:** Playwright · Appium · TypeScript · Java · Jenkins · GitHub Actions · AWS (CodeBuild, EC2, Lambda) · Datadog · Agentic AI
+> **Focus:** Web, Mobile and API test automation · Framework design · CI/CD and test infrastructure<br>
+> **Stack:** Playwright · Appium · TypeScript · Java · Jenkins · GitHub Actions · AWS (CodeBuild, EC2, Lambda) · Datadog · Agentic AI
 
-**Open to remote SDET / QA automation roles.**<br>
-[CV (PDF)](https://me.trazire.com/docs/Profile.pdf) · [Portfolio](https://me.trazire.com) · [LinkedIn](https://www.linkedin.com/in/rio-anggara) · [rio.ap7@gmail.com](mailto:rio.ap7@gmail.com)
+> [!TIP]
+> **Open to remote SDET / QA automation roles.**
+> [CV (PDF)](https://me.trazire.com/docs/Profile.pdf) · [Portfolio](https://me.trazire.com) · [LinkedIn](https://www.linkedin.com/in/rio-anggara) · [rio.ap7@gmail.com](mailto:rio.ap7@gmail.com)
 
 ## Selected projects
 
@@ -20,6 +21,10 @@ A demo storefront built to be tested: cart drawer, routed checkout, stable test 
 **[YouTube Thumbnail Generator](https://thumbnail.trazire.com/thumbnail-generator)**<br>
 A browser-based 1280×720 thumbnail editor. Layers, draggable crops, background removal,
 PNG export. Images never leave the browser.
+
+**Open source:** 3 merged PRs to
+[aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist), including the
+OpenCode integration and dependency CVE patches.
 
 ---
 
