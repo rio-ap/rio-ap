@@ -4,7 +4,7 @@
 
 Former Senior SDET at **Traveloka**. Previously Senior Software Engineer, Engineering Productivity at **Tokopedia**. Focused on eliminating flaky tests, accelerating release cycles, and building resilient quality systems.
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-Remote_SDET_%2F_QA_Automation-2EA44F?style=flat-square&logo=github)](mailto:rio.ap7@gmail.com)
+[![Open to remote SDET roles](https://img.shields.io/badge/Open_to_Work-Remote_SDET_%2F_QA_Automation-2EA44F?style=flat-square)](https://me.trazire.com/docs/Profile.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-me.trazire.com-0055FF?style=flat-square&logo=googlechrome&logoColor=white)](https://me.trazire.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://me.trazire.com/docs/Profile.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rio--anggara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-anggara)
