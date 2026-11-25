@@ -31,6 +31,15 @@ An open-source test sandbox designed specifically for end-to-end UI automation t
 - Fully automated GitHub Actions pipeline publishing live test metrics.
 - **Links:** [Live App](https://playground.trazire.com) · [Playwright Reports](https://playground.trazire.com/test-reports/) · [Code Coverage](https://playground.trazire.com/coverage/) · [GitHub Repo](https://github.com/rio-ap/web-playground)
 
+#### [Prayer Alarm](https://prayerapp.trazire.com)
+A native Android prayer-time app for Indonesia: Kemenag schedules with Aladhan and on-device
+calculation as fallbacks, exact adhan alarms planned three days ahead, and a Qibla compass.
+- Kotlin + Jetpack Compose; the fallback chain and a monthly cache keep times available offline.
+- Alarms are exact when the OS allows it and degrade to a 10-minute window otherwise; the plan is
+  rebuilt after reboot, time or timezone changes.
+- In open testing on Google Play — the public site is the preview.
+- **Links:** [Website](https://prayerapp.trazire.com)
+
 #### [YouTube Thumbnail Generator](https://thumbnail.trazire.com/thumbnail-generator)
 In-browser 1280×720 image editing tool built with privacy-first client-side processing.
 - Canvas layer manipulation, custom aspect-ratio cropping, background removal, and PNG export.
